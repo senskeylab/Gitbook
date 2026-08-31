@@ -24,7 +24,7 @@ description: >-
 
 **Gas → Sensor → Signal Conditioning → ADC → MCU → Concentration**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="가스센서 측정 시스템의 Sensor, AFE, ADC, MCU 및 출력 인터페이스 구성 블록도"><figcaption><p>가스센서의 출력 신호가 아날로그 신호처리와 ADC, MCU를 거쳐 가스 농도로 변환되고 외부 시스템으로 전달되는 기본 측정 구조</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gas-sensor-measurement-system.webp" alt=""><figcaption></figcaption></figure>
 
 1. **Gas**\
    측정 대상 가스가 센서에 유입됩니다.
@@ -49,7 +49,7 @@ description: >-
 
 가스의 종류와 적용 환경에 따라 다양한 검지 기술이 사용됩니다.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="전기화학식, 접촉연소식, 반도체식(MOS), NDIR 가스센서의 주요 검지 원리 비교"><figcaption><p>주요 가스센서 검지 방식 비교. 전기화학식은 전극의 산화·환원 반응, 접촉연소식은 촉매 연소에 따른 저항 변화, 반도체식은 금속산화물 표면의 저항 변화, NDIR은 특정 파장의 적외선 흡수를 이용하여 가스를 측정합니다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gas-sensor-detection-principles.webp" alt=""><figcaption></figcaption></figure>
 
 #### 전기화학식 (Electrochemical)
 
@@ -124,9 +124,9 @@ NDIR뿐만 아니라 레이저 기반의 TDLAS(Tunable Diode Laser Absorption Sp
 
 ### 가스센서와 가스감지기의 차이
 
-가스센서(Gas Sensor)와 가스감지기(Gas Detector)는 서로 관련되어 있지만 의미가 다릅니다.
+<figure><img src="../../.gitbook/assets/gas-sensor-vs-gas-detector.webp" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="가스센서와 가스감지기의 구성 차이를 보여주는 시스템 비교도"><figcaption><p>가스센서는 가스를 감지하여 전기적 신호를 발생시키는 핵심 소자이며, 가스감지기는 가스센서와 AFE, ADC, MCU, 디스플레이, 경보 및 통신 인터페이스를 결합한 완성된 측정 시스템입니다.</p></figcaption></figure>
+가스센서(Gas Sensor)와 가스감지기(Gas Detector)는 서로 관련되어 있지만 의미가 다릅니다.
 
 **가스센서**는 가스를 감지하여 전기적 신호로 변환하는 핵심 감지 소자입니다.
 
@@ -166,9 +166,9 @@ NDIR뿐만 아니라 레이저 기반의 TDLAS(Tunable Diode Laser Absorption Sp
 
 ### 가스센서의 주요 활용 분야
 
-가스센서는 산업안전뿐만 아니라 다양한 분야에서 사용됩니다.
+<figure><img src="../../.gitbook/assets/gas-sensor-applications.webp" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="산업안전, 환경 모니터링, 화재·폭발 감지, 공정 모니터링 및 IoT 원격 모니터링 분야의 가스센서 활용 사례"><figcaption><p>가스센서는 산업현장의 유해·가연성 가스 감지, 대기 및 실내 공기질 측정, 화재·폭발 위험 감지, 산업공정 제어뿐만 아니라 RS485, LoRa 등의 통신을 이용한 원격 모니터링 시스템에도 활용됩니다.</p></figcaption></figure>
+가스센서는 산업안전뿐만 아니라 다양한 분야에서 사용됩니다.
 
 **산업안전**
 
