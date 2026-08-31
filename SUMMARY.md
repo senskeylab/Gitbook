@@ -9,6 +9,7 @@
   * [가스센서의 역사](sensor-technology/overview/history-of-gas-sensors.md)
   * [가스센서 검지 방식](sensor-technology/overview/undefined.md)
 * [Electrochemical](sensor-technology/electrochemical.md)
+* [NDIR](sensor-technology/ndir.md)
 
 ## &#x20;02. Sensor Selection
 
@@ -26,10 +27,6 @@
 ## 05. Application & Design
 
 * [Gas Sensor Module](05.-application-and-design/gas-sensor-module.md)
-
-***
-
-* [NDIR](ndir.md)
 
 ## 06. Components & Devices
 
