@@ -10,7 +10,9 @@ description: >-
 
 **SENSKEYLAB**은 가스센서 응용 회로 설계, 임베디드 펌웨어 개발, 센서 모듈 R\&D를 전문으로 하는 가스센서 응용 엔지니어링 기업입니다. 20년 이상의 가스센서 제품 개발 경험을 바탕으로 다수의 특허와 정부 R\&D 과제를 수행해 왔으며, 이 기술 문서는 실제 개발 과정에서 축적된 경험을 정리한 자료입니다.
 
-→ [회사 소개 자세히 보기](https://senskeylab.com/about/)
+{% embed url="https://senskeylab.com/about/" %}
+센스키랩 회사 소개 자세히 보기 링크
+{% endembed %}
 
 ## SENSKEYLAB Technical Docs
 
