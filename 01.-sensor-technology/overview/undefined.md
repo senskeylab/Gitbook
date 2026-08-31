@@ -1,0 +1,118 @@
+# 가스센서란?
+
+<figure><img src="https://github.com/senskeylab/senskeylab-docs/raw/main/insights/gas-sensor-history/images/gas-sensor-history-001.jpg" alt=""><figcaption></figcaption></figure>
+
+## \[가스센서의 역사 1] 보이지 않는 암살자와 광산의 카나리아 🐦
+
+
+
+우리는 매일 숨을 쉬며 살아갑니다. 그런데 만약 우리가 들이마시는 공기 속에 형체도, 색도, 냄새도 없는 치명적인 위험이 숨어 있다면 어떨까요?
+
+오늘날에는 전기화학식, 반도체식, 적외선식 등 다양한 첨단 가스센서가 그 위험을 감시합니다. 하지만 이런 전자 장비가 없던 시절, 인류는 오직 생명체의 반응, 불꽃의 변화, 화학 반응의 흔적에 의지해 위험을 읽어내야만 했습니다.
+
+기획 연재의 첫 번째 시간, 기계가 아닌 '생명'과 '자연 현상'에 의지해야만 했던 초기 감지의 역사를 들여다봅니다.
+
+***
+
+### 1. 광산 속 보이지 않는 적: 메탄과 일산화탄소
+
+
+
+산업혁명 이후 인류가 지하 깊은 곳으로 내려가 석탄을 캐기 시작하면서, 광부들은 언제 터질지 모르는 끔찍한 위험과 마주하게 되었습니다. 바로 갱도 안에 고이는 **메탄(CH₄)** 과 **일산화탄소(CO)** 가스입니다.
+
+메탄은 무색·무취의 가연성 가스로, 공기 중 일정 농도에서 섞이면 대형 폭발을 일으키기 때문에 광산의 대표적인 폭발 위험 가스(Firedamp)로 불렸습니다. 반면 일산화탄소는 화재나 폭발 뒤 형성되는 환경(Afterdamp)에서 많은 광부를 질식하게 만든 치명적인 독성 가스였습니다.
+
+문제는 인간의 감각만으로는 냄새도 없고 눈에 보이지도 않는 이 위협을 제때 알아차리기 어렵다는 점이었습니다. 반응했을 때는 이미 늦은 경우가 많았기에, 인간의 감각을 대신해 줄 '알람'이 절실히 필요했습니다.
+
+***
+
+### 2. 불꽃도 하나의 센서였다: 데이비 안전등
+
+
+
+<figure><img src="https://github.com/senskeylab/senskeylab-docs/raw/main/insights/gas-sensor-history/images/gas-sensor-history-001-1.png" alt=""><figcaption></figcaption></figure>
+
+_데이비의 첫 안전 랜턴 (1815년) 및 구조도 - WIKIPEDIA_
+
+카나리아 이야기만큼 널리 알려지진 않았지만, 그 이전부터 광부들은 불꽃의 변화를 이용해 가스를 감지해 왔습니다. 대표적인 장치가 1815년 등장한 **데이비 안전등(Davy safety lamp)** 입니다.
+
+이 램프는 촘촘한 금속망으로 불꽃을 둘러싸서 외부의 가연성 가스에 곧바로 불이 옮겨붙어 폭발하지 않도록 고안되었습니다.
+
+* 주변에 **메탄**이 있으면 불꽃이 길어지거나 푸르게 변함
+* **산소가 부족**하거나 유해 공기가 가득 차면 불꽃 자체가 꺼짐
+
+즉, 가스센서의 역사는 전기 신호가 아니라 불꽃의 길이와 색, 소멸 여부를 읽어내는 '관찰'에서부터 출발했다고 볼 수 있습니다.
+
+***
+
+### 3. 희생의 아이콘: 광산의 카나리아
+
+
+
+<figure><img src="https://github.com/senskeylab/senskeylab-docs/raw/main/insights/gas-sensor-history/images/gas-sensor-history-001-2.png" alt=""><figcaption></figcaption></figure>
+
+_카나리아가 들어 있는 작은 새장을 들고 있는 광산 감독관 R. Thornburg (1928 년) - George McCaa, U.S. Bureau of Mines_
+
+19세기 말, 영국의 생리학자 **존 스콧 할데인(John Scott Haldane)** 은 광산 사고를 조사하던 중 사람보다 유독 가스에 더 빨리 반응하는 동물에 주목했습니다. 1896년 웨일스의 타일러스타운(Tylorstown) 광산 폭발을 조사한 뒤, 그는 일산화탄소 축적의 위험성을 강조하며 새나 쥐 같은 소형 동물을 조기 경보 수단으로 쓰자고 제안했습니다.
+
+그중에서도 **카나리아**는 특히 완벽한 센서였습니다.
+
+* 작아서 휴대가 쉬움
+* 대사율이 높아 극미량의 유독 성분에도 사람보다 훨씬 먼저 반응
+
+새장 안에서 맑게 지저귀던 새가 노래를 멈추거나 쓰러지면, 광부들은 즉시 그 구역을 탈출했습니다. 오늘날 **"광산의 카나리아(Canary in the coal mine)"** 라는 말이 다가올 위험을 먼저 알려주는 조기 경보를 뜻하는 관용어로 굳어진 이유입니다.
+
+#### 카나리아 소생 케이지 (Resuscitator)
+
+
+
+<figure><img src="https://github.com/senskeylab/senskeylab-docs/raw/main/insights/gas-sensor-history/images/gas-sensor-history-001-3.png" alt=""><figcaption></figcaption></figure>
+
+_산소통이 달린 특별한 카나리아 소생 케이지 (Resuscitator) - George McCaa, U.S. Bureau of Mines_
+
+흥미로운 점은 당시 광부들이 카나리아를 단순한 1회용 소모품으로만 대하지는 않았다는 사실입니다. 산소통이 달린 **'카나리아 소생 케이지(Resuscitator)'** 가 존재했습니다. 새가 가스에 노출되어 기절하면 즉시 케이지를 밀폐하고 산소를 주입해 되살릴 수 있도록 설계된 것입니다.
+
+카나리아는 20세기 내내 광산 안전 문화의 상징이었습니다. 놀랍게도 영국에서는 **1986년**에 이르러서야 이 작은 새들이 공식적으로 전자식 검지기로 대체되었습니다. 이는 생명에 의존하던 조기 경보 시스템이 마침내 정량적인 전자 센서로 넘어간 역사적인 분기점이었습니다.
+
+***
+
+### 4. 색이 변하는 종이: 초기 화학식 검지의 등장
+
+
+
+[![Lead acetate paper](https://github.com/senskeylab/senskeylab-docs/raw/main/insights/gas-sensor-history/images/gas-sensor-history-001-4.png)](https://github.com/senskeylab/senskeylab-docs/blob/main/insights/gas-sensor-history/images/gas-sensor-history-001-4.png)
+
+_황화수소 검출용 아세트산납 종이 (Lead acetate paper) -_ [_www.indigoinstruments.com_](http://www.indigoinstruments.com/)
+
+동물에 의존하는 방식은 윤리적인 문제뿐만 아니라, 가스의 농도를 수치화하거나 표준화하기 어렵다는 명확한 한계가 있었습니다. 이를 극복하기 위해 등장한 것이 색 변화 기반의 화학 검지법, 바로 **아세트산납 종이(Lead acetate paper)** 입니다.
+
+이 특수 종이는 하수도나 광산에서 발생하는 황화수소(H₂S)에 노출되면, 납 이온이 반응하여 검은색의 황화납(PbS)을 형성하며 색이 짙게 변합니다. 1914년 미국 국립표준국(Bureau of Standards) 문헌에 따르면, 당시 이 종이는 가스 시험에 거의 보편적으로 쓰였습니다.
+
+비록 오늘날의 전자 센서는 아니지만, 보이지 않는 가스를 '시각적 신호'로 바꾸어 인간이 직관적으로 해석하게 만든 이 방식은 현대 화학식 가스센서의 근간이 되었습니다. (다만 납 화합물 자체의 독성 때문에 이 역시 완벽한 해법은 아니었습니다.)
+
+***
+
+### 💡 마무리
+
+
+
+가스센서의 역사는 결국 인간의 감각을 넘어서는 경보 체계를 만들려는 치열한 생존의 역사였습니다. 불꽃의 흔들림에서 시작해 카나리아의 희생을 거쳐, 색이 변하는 화학 종이로 이어진 이 모든 시도가 쌓여 훗날 정밀한 현대 가스센서로 발전하게 됩니다.
+
+> **다음 편 예고:** \[가스센서 역사 2탄]에서는 광산과 공장의 대형 폭발 사고를 근본적으로 막기 위해 등장한 '초기 기계식 검지기'와 '접촉 연소식 센서'의 탄생에 대해 다뤄보겠습니다.
+
+***
+
+### 참고 문헌
+
+
+
+1. **데이비 램프:** Wikipedia, "Davy lamp" / Science and Industry Museum, "The canary resuscitator"
+2. **카나리아 조기 경보:** Smithsonian Magazine, "What Happened to the Canary in the Coal Mine?"
+3. **아세트산납 종이:** Canada CCI, "Lead Acetate Test Paper" 및 U.S. Bureau of Standards (1914)
+
+***
+
+**관련 키워드**
+
+`가스센서` `가스센서역사` `광산의카나리아` `일산화탄소` `메탄` `안전기술` `CO` `CH4` `H2S` `데이비안전등` `산업혁명`
+
