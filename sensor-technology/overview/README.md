@@ -14,7 +14,9 @@
 
 가스센서의 기본 개념과 역할을 알아보고, 센서에서 발생한 신호가 신호처리 회로와 ADC, MCU를 거쳐 실제 가스 농도로 변환되는 기본적인 측정 시스템의 구조를 살펴봅니다.
 
-[→ **가스센서란?**](#user-content-fn-1)[^1]
+{% content-ref url="what-is-a-gas-sensor.md" %}
+[what-is-a-gas-sensor.md](what-is-a-gas-sensor.md)
+{% endcontent-ref %}
 
 ***
 
@@ -24,7 +26,9 @@
 
 초기의 가스 검지 방법부터 접촉연소식, 전기화학식, 반도체식 및 광학식 가스센서가 등장하고 발전해 온 과정을 소개합니다.
 
-[→ **가스센서의 역사**](history-of-gas-sensors.md)
+{% content-ref url="history-of-gas-sensors.md" %}
+[history-of-gas-sensors.md](history-of-gas-sensors.md)
+{% endcontent-ref %}
 
 ***
 
@@ -41,5 +45,3 @@
 가스센서의 검지 원리를 이해하는 것은 적절한 센서를 선정하고 안정적인 가스 측정 시스템을 설계하기 위한 첫 번째 단계입니다.
 
 각 검지 방식의 상세한 동작 원리와 특성은 Sensor Technology의 개별 기술 문서에서 자세히 다룹니다.
-
-[^1]: 
