@@ -2,13 +2,13 @@
 
 * [Home](README.md)
 
-## 01. Sensor Technology
+## 01. Sensor Technology <a href="#sensor-technology" id="sensor-technology"></a>
 
-* [Overview](01.-sensor-technology/overview/README.md)
-  * [가스센서란?](01.-sensor-technology/overview/undefined.md)
-  * [가스센서의 역사](01.-sensor-technology/overview/undefined-1.md)
-  * [가스센서 검지 방식](01.-sensor-technology/overview/undefined-2.md)
-* [Electrochemical](01.-sensor-technology/electrochemical.md)
+* [Overview](sensor-technology/overview/README.md)
+  * [가스센서란?](sensor-technology/overview/what-is-a-gas-sensor.md)
+  * [가스센서의 역사](sensor-technology/overview/history-of-gas-sensors.md)
+  * [가스센서 검지 방식](sensor-technology/overview/undefined.md)
+* [Electrochemical](sensor-technology/electrochemical.md)
 
 ## &#x20;02. Sensor Selection
 
