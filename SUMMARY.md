@@ -11,10 +11,9 @@
 * [Electrochemical](sensor-technology/electrochemical.md)
 * [NDIR](sensor-technology/ndir.md)
 
-## &#x20;02. Sensor Selection
+## 02. Sensor Selection
 
 * [Selection Guide](02.-sensor-selection/selection-guide.md)
-* [Selection Guide](02.-sensor-selection/selection-guide-1.md)
 
 ## 03. Circuit & Signal
 
